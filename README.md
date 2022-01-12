@@ -1,1 +1,4 @@
 # EnsembleTechniques
+RandomForestClassifier
+GradientBoostingClassifier
+XGBOOST

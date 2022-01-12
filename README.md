@@ -1,4 +1,4 @@
 # EnsembleTechniques
-RandomForestClassifier
-GradientBoostingClassifier
+RandomForestClassifier \n
+GradientBoostingClassifier \n
 XGBOOST
